@@ -1,1 +1,2 @@
-# appstracted
+# appstracted-web
+Website source code repository
