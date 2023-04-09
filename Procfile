@@ -1,1 +1,1 @@
-web: gunicorn appstracted-web.wsgi
+web: gunicorn website.wsgi
